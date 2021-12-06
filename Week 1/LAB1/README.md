@@ -34,7 +34,7 @@ UbuntuLTS --admin-username azureuser --generate-ssh-keys)
 
 # 4. Open port 80 for web traffic
 I was also able to open port 80 because the Vm i am creating is to allow web traffic, this code was used 
-(az vm open-port --port 80 --resource-group Neew --name First
+(az vm open-port --port 80 --resource-group Neew --name First)
 
 # 5. Connect to virtual machine
 I was unable to ssh into the my Vm, it displayed error Permission Denied (Public Key)which i am still battling
@@ -46,7 +46,7 @@ I was also able to install a wab server by running the command (sudo apt-get ins
 i went further to try and open port 81 so as to install ngix but didn't have an head way.
 I lunched another Vm and installed nginx with the ip address (20.106.217.143).
 
-7. View the web server in action
+# 7. View the web server in action
 I was able to view my Vms ip address (20.115.64.65), 
 ip address (20.106.217.143). and it came out just like we did in class
 

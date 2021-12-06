@@ -35,7 +35,7 @@ The Aws virtual machine can be created basically using two procedures
 I used both for the creation of my VMs. I used the Cli to create a VM by using various commands 
 for example; 
 
- * --image-id ami-0abcdef1234567890(the image i choose)--instance-type t2.micro --key-name My-ssh-key
+ * Aws ec2 run instance --image-id ami-0abcdef1234567890(the image i choose)--instance-type t2.micro --key-name My-ssh-key
 This is the command i used to create one of my VMs.
 
 
