@@ -35,7 +35,7 @@ Just like creating a resoucre group, I am now conversant with creating a resourc
 creating or opening a virtual machine both on the user interface and using the command line. I was able to create 
 a VM with the following commands; 
  * az vm create --resource-group Goop --name proj --image UbuntuLTS --admin-username azureuser --generate-ssh-keys
-Meaning i created a resource group (goop), named it (proj), I used UbuntuLTS as my image/Os and i generated ssh-key
+Meaning i created a resource group (goop), named it (proj), I used UbuntuLTS as my image/Os and I generated ssh-key
 
 # 3. Open port 80 for web traffic
 
@@ -70,7 +70,17 @@ Like other LAMP stack I was able to install wordpress, using the folloeing comma
 (sudo nano wordpress.sql) - using this commnand i was able to write a wordpress script 
 
 
-I was ble to view all my applications in action and also edited my wordpress. 
+I was able to view all my applications in action and also edited my wordpress. 
+
+
+
+
+
+
+
+
+
+
 
 
 
