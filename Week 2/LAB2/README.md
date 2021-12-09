@@ -44,9 +44,12 @@ it on my local bash where the key is located and i was able to connect to my VM.
 # 3. Understand VM images
 
 VM images stands as configuration for the instance created. One has to choose an image or 
-configuration before setting up a virtual machine depending on what is supposed to be used for. 
+configuration before setting up a virtual machine depending on what is supposed to be used for.
+
 In an situation where there is need to add to the configuration or image there's a laid down 
-procedure for that both on the user interface and command line. One can also choose from template
+procedure for that both on the user interface and command line. 
+
+One can also choose from template
 images or create one from the scratch. The VM Images are in hundreds, there are lots of configurations
 to pick 
 from depending on the work we want to carry out. 
@@ -55,7 +58,9 @@ from depending on the work we want to carry out.
 
 The virtual machine size(s) determines the amount of compute resource and the memory avaliable to our instance. 
 We have various sizes to pick from either from the inception or creation of the instance or we can
-as well add to it even after the machine is running. One need to pick the size or sizes that would be 
+as well add to it even after the machine is running. 
+
+One need to pick the size or sizes that would be 
 enough for the workload to be done. If the instance is created to run a number of activites then we will
 definately need to pick a large size for the instance and vice versa . One can also create the particular 
 size needed for the job.
@@ -74,7 +79,9 @@ by running some command on the cloud shell.
 # 6. Management tasks
 
 We will have to manage our instance for various reasons, One being to help us lower cost or
-help from incuring some avoidable charges. For example when an instance is not in use we can stop
+help from incuring some avoidable charges.
+
+For example when an instance is not in use we can stop
 for the main time instead of making it run which incur lots of charges for something not in use.
 We will want to run the management tasks such as deleting, starting, stopping, a VM. 
 Using various command for various task.
