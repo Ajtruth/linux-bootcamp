@@ -16,6 +16,9 @@
 
 
 
+
+
+
 # 1. Quickstart using a Linux VM
 
 Creating a Vm using GCP platform.
