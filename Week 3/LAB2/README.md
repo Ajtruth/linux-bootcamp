@@ -22,6 +22,7 @@ Sample Gist
 
 Just like installing a LAMP stack (Linux, Apache, Mysql, PHP) on Azure, I was also able to do the same thing on
 Aws. As always we can install these using both GUI and CLI. 
+
 NOTE; I was able to install the LAMP stack using the followings code but on Amazon Linux Ami.
 To install the LAMP stack we need to have a running instance and our instance security group must have open port 
 80 opened since it's a web server we are working on.
@@ -56,7 +57,7 @@ I was able to put in (my Ip address/info.php).
 
 # 3. Secure the database server
 
-To secure my database which is MySql i was able to run the folloeing command to start and secure Mysql 
+To secure my database which is MySql i was able to run the following command to start and secure Mysql 
  * sudo service mysqld start - (This is to start Mysql database)
  * sudo mysql_secure_installation - (This is to secure Mysql, I was able setting my password, disable the 
 remote root login. I was remove the test database).
