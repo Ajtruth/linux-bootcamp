@@ -44,6 +44,7 @@ I was able to test my various installed apps by using my public Ip.
 
 For my PHP, to create a PHP file i ran this command as directed 
  * echo "<?php phpinfo(); ?>" > /var/www/html/phpinfo.php
+
 but it came back with an error "permission denied" 
 
 After much troubleshooting i ran another ran this command and it gave the desired outcome 
