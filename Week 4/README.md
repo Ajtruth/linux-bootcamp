@@ -77,3 +77,17 @@ since i have opened up port 80 at initital stage of creating the Vm what i neede
 created Docker image using the Ip address of my Vm. 
 
 It came out okay as expected. I had HELLO WORD! on my docker page 
+
+
+
+
+As at the time of writing this lab i haven't gotten an head way tring to Replicate a container image to different Aws 
+regions. Hopefully will get an head way soon.
+ 
+It will be good to point out that there's no proper guidiance using the Aws plaform to run docker but hopefully 
+before the next class, I would have gotten an headway.  
+
+
+Also for the final lab whcih as to do with deploying the container with web application. I followed through with lots
+of errors, had lots of challenges completing and i am still yet to complete that aspect. Much work as been dedicated 
+to achieving it but still yet to get it.
