@@ -18,7 +18,7 @@ Quickstart for Bash in Azure Cloud Shell
 
 
 # 1. Create resoucre group
-I am now acquitted to creating resource groups using both GUi and CLi, I created a
+I am now acquitted to creating resource groups using both the GUi and CLi, I created a
 resource group using CLi named FreeRg
 
 # 2. Create Virtual machine 
