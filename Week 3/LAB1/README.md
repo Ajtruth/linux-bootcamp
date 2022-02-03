@@ -25,9 +25,9 @@ MEAN Stack App
 # 1. Create a resource group
 
 I created a resource group on my Azure account using the CLI, cloud shell which i am now conversant with. One
-can create resource group using interface or command line like bash, powershell ..., 
+can also create resource group using interface or command line like bash, powershell ..., 
 
-I used bash on the 
+I used git bash on the 
 cloudshell to create my resource group. I used this command to create the resource group;
  * az group create --name Goop --location canada central
  
