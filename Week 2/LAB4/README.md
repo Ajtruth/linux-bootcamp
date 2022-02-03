@@ -29,7 +29,7 @@ Create bootstrap actions to install additional software
 # 1. Create a Linux VM
 
 I was able to create a linux Virtual machine using AWS platform. I created the Instance using CLI, configured 
-the images and region and I ssh into the running instance.
+the images and region and I was able to ssh into the running instance.
 
 
 # 2. Install the Apache Web Server 
